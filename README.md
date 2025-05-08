@@ -1,10 +1,10 @@
-# 2048マイクラ (2048 Minecraft Edition)
+# 2048マイクラ (2048 My Edition)
 
-🎮 **Play Now**: [2048マイクラ - Minecraft Style 2048 Game](https://kaloodinaz.github.io/My2048/)
+🎮 **Play Now**: [2048マイクラ - My Style 2048 Game](https://kaloodinaz.github.io/My2048/)
 
 ## 🧱 Overview
 
-**2048マイクラ** is a fun and addictive twist on the classic 2048 puzzle game, reimagined with a **Minecraft-inspired** theme! Combine matching Minecraft-style blocks to reach the ultimate tile. Whether you're a fan of puzzles or a Minecraft enthusiast, this game offers a pixel-perfect blend of strategy and fun.
+**2048マイクラ** is a fun and addictive twist on the classic 2048 puzzle game, reimagined with a **My-inspired** theme! Combine matching My-style blocks to reach the ultimate tile. Whether you're a fan of puzzles or a My enthusiast, this game offers a pixel-perfect blend of strategy and fun.
 
 ## 🚀 How to Play
 
